@@ -1,0 +1,13 @@
+---
+# This ensures that jekyll process this as SASS
+# Need to consider figuring out how to turn off the linting error on the triple dash
+---
+
+// Import partials
+@import 'reset';
+@import 'base';
+
+
+section {
+    // background-color: blue;
+}
